@@ -1,0 +1,17 @@
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\bin\Debug\net6.0-windows\TicTacToeStart.exe
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\bin\Debug\net6.0-windows\TicTacToeStart.deps.json
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\bin\Debug\net6.0-windows\TicTacToeStart.runtimeconfig.json
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\bin\Debug\net6.0-windows\TicTacToeStart.dll
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\bin\Debug\net6.0-windows\TicTacToeStart.pdb
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.csproj.AssemblyReference.cache
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.Form1.resources
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.csproj.GenerateResource.cache
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.AssemblyInfoInputs.cache
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.AssemblyInfo.cs
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.csproj.CoreCompileInputs.cache
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.dll
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\refint\TicTacToeStart.dll
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.pdb
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\TicTacToeStart.genruntimeconfig.cache
+C:\Users\thomas.gander\Source\Repos\itec140-a05-r1-GanderTheRed\TicTacToeStart\obj\Debug\net6.0-windows\ref\TicTacToeStart.dll
